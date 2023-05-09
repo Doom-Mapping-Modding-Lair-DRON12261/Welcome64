@@ -3,5 +3,5 @@
 # STATUS: 🏁WORK IN PROGRESS
 
 # Screenshots:
-![Screen1](https://i.ibb.co/CsdMjZF/20230326151749-1.jpg)
-![Screen2](https://i.ibb.co/R7PnY8z/20230326151810-1.jpg)
+![Screen1](./screens/1.jpg)
+![Screen2](./screens/2.jpg)
