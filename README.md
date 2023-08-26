@@ -1,6 +1,6 @@
 # Welcome 64 [1 Level, DOOM 64, STEAM/EX]
 
-# STATUS: 🏁WORK IN PROGRESS
+# STATUS: ⛔ABANDONED/FROZEN
 
 # Screenshots:
 ![Screen1](./screens/1.jpg)
