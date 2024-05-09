@@ -10,6 +10,16 @@ maps
 		
 		resources
 		{
+			
+			resource0
+			{
+				type = 0;
+				location = "D:\\SteamLibrary\\steamapps\\common\\Doom 64\\DOOM64.WAD";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 0;
+			}
+			
 		}
 		
 		
